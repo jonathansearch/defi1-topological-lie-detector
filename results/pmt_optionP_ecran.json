@@ -1,0 +1,534 @@
+[
+ {
+  "pays": "Bhoutan",
+  "capitale": "Thimphou",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Vanuatu",
+  "capitale": "Port-Vila",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Kiribati",
+  "capitale": "Tarawa",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 4
+ },
+ {
+  "pays": "Tonga",
+  "capitale": "Nukualofa",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Samoa",
+  "capitale": "Apia",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 4
+ },
+ {
+  "pays": "Fidji",
+  "capitale": "Suva",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Papouasie",
+  "capitale": "Port Moresby",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Suriname",
+  "capitale": "Paramaribo",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Guyana",
+  "capitale": "Georgetown",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 4
+ },
+ {
+  "pays": "Belize",
+  "capitale": "Belmopan",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Brunei",
+  "capitale": "Bandar Seri Begawan",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Laos",
+  "capitale": "Vientiane",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Cambodge",
+  "capitale": "Phnom Penh",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Myanmar",
+  "capitale": "Naypyidaw",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Mongolie",
+  "capitale": "Oulan-Bator",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Ouzbekistan",
+  "capitale": "Tachkent",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Tadjikistan",
+  "capitale": "Douchanbe",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Turmenistan",
+  "capitale": "Achgabat",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Kirghizistan",
+  "capitale": "Bichkek",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Azerbaidjan",
+  "capitale": "Bakou",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Georgie",
+  "capitale": "Tbilissi",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Armenie",
+  "capitale": "Erevan",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Moldavie",
+  "capitale": "Chisinau",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 4
+ },
+ {
+  "pays": "Slovenie",
+  "capitale": "Ljubljana",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 5
+ },
+ {
+  "pays": "Slovaquie",
+  "capitale": "Bratislava",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Lituanie",
+  "capitale": "Vilnius",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Lettonie",
+  "capitale": "Riga",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Estonie",
+  "capitale": "Tallinn",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Bielorussie",
+  "capitale": "Minsk",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Albanie",
+  "capitale": "Tirana",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Macedoine",
+  "capitale": "Skopje",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Montenegro",
+  "capitale": "Podgorica",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Bosnie",
+  "capitale": "Sarajevo",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Serbie",
+  "capitale": "Belgrade",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Maurice",
+  "capitale": "Port-Louis",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Madagascar",
+  "capitale": "Antananarivo",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Malawi",
+  "capitale": "Lilongwe",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Zambie",
+  "capitale": "Lusaka",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Zimbabwe",
+  "capitale": "Harare",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Botswana",
+  "capitale": "Gaborone",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Namibie",
+  "capitale": "Windhoek",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 3
+ },
+ {
+  "pays": "Angola",
+  "capitale": "Luanda",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 4
+ },
+ {
+  "pays": "Mozambique",
+  "capitale": "Maputo",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Tanzanie",
+  "capitale": "Dodoma",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Ouganda",
+  "capitale": "Kampala",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 4
+ },
+ {
+  "pays": "Rwanda",
+  "capitale": "Kigali",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Burundi",
+  "capitale": "Gitega",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Tchad",
+  "capitale": "Ndjamena",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Niger",
+  "capitale": "Niamey",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Burkina Faso",
+  "capitale": "Ouagadougou",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Togo",
+  "capitale": "Lome",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Benin",
+  "capitale": "Porto-Novo",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Guinee",
+  "capitale": "Conakry",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 5
+ },
+ {
+  "pays": "Mauritanie",
+  "capitale": "Nouakchott",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Somalie",
+  "capitale": "Mogadiscio",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Soudan",
+  "capitale": "Khartoum",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 3
+ },
+ {
+  "pays": "Erythree",
+  "capitale": "Asmara",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Bahrein",
+  "capitale": "Manama",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Oman",
+  "capitale": "Mascate",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Yemen",
+  "capitale": "Sanaa",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 3
+ },
+ {
+  "pays": "Jordanie",
+  "capitale": "Amman",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Liban",
+  "capitale": "Beyrouth",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Bangladesh",
+  "capitale": "Dacca",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Malaisie",
+  "capitale": "Kuala Lumpur",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Philippines",
+  "capitale": "Manille",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Barbade",
+  "capitale": "Bridgetown",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Jamaique",
+  "capitale": "Kingston",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Bahamas",
+  "capitale": "Nassau",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 4
+ },
+ {
+  "pays": "Haiti",
+  "capitale": "Port-au-Prince",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 5
+ },
+ {
+  "pays": "Honduras",
+  "capitale": "Tegucigalpa",
+  "bon": 0,
+  "inconnu": true,
+  "faites": 4
+ },
+ {
+  "pays": "Guatemala",
+  "capitale": "Guatemala",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Nicaragua",
+  "capitale": "Managua",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 4
+ },
+ {
+  "pays": "Salvador",
+  "capitale": "San Salvador",
+  "bon": 1,
+  "inconnu": true,
+  "faites": 5
+ },
+ {
+  "pays": "Costa Rica",
+  "capitale": "San Jose",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Panama",
+  "capitale": "Panama",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ },
+ {
+  "pays": "Paraguay",
+  "capitale": "Asuncion",
+  "bon": 2,
+  "inconnu": false,
+  "faites": 2
+ }
+]

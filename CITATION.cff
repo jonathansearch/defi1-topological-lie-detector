@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Topological Signatures of Knowledge and of Conflict in a Small Language Model
+message: A negative result that survived four runs.
+authors:
+  - name: RATISS Labs
+    city: Yaoundé
+    country: CM
+type: software
+license: MIT
+abstract: >
+  Measures beta1(tau) of the residual-stream correlation graph of
+  Qwen2.5-0.5B-Instruct across a 2x2 of knowledge and constraint.
+  Knowledge has a robust topological signature (+0.0765, 20/25 layers).
+  A conflict against a held belief does not: at matched surprise and matched
+  answer length the contrast is -0.0162.

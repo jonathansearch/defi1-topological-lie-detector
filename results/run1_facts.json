@@ -1,0 +1,602 @@
+[
+ {
+  "id": "cap:France",
+  "type": "capitale",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "cap:Cameroun",
+  "type": "capitale",
+  "score": 1,
+  "known": false
+ },
+ {
+  "id": "cap:Japon",
+  "type": "capitale",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "cap:Italie",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Espagne",
+  "type": "capitale",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "cap:Allemagne",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Portugal",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Belgique",
+  "type": "capitale",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "cap:Suisse",
+  "type": "capitale",
+  "score": 2,
+  "known": null
+ },
+ {
+  "id": "cap:Autriche",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "cap:Grece",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "cap:Egypte",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "cap:Maroc",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Senegal",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Nigeria",
+  "type": "capitale",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "cap:Kenya",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Ethiopie",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Ghana",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Algerie",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Tunisie",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Mali",
+  "type": "capitale",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "cap:Gabon",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Canada",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Bresil",
+  "type": "capitale",
+  "score": 2,
+  "known": null
+ },
+ {
+  "id": "cap:Argentine",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Mexique",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Chili",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Perou",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "cap:Chine",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "cap:Inde",
+  "type": "capitale",
+  "score": 2,
+  "known": null
+ },
+ {
+  "id": "cap:Australie",
+  "type": "capitale",
+  "score": 3,
+  "known": null
+ },
+ {
+  "id": "cap:Russie",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Turquie",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "cap:Iran",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "cap:Norvege",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Suede",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "cap:Finlande",
+  "type": "capitale",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "cap:Danemark",
+  "type": "capitale",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "cap:Pologne",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "cap:Hongrie",
+  "type": "capitale",
+  "score": 2,
+  "known": null
+ },
+ {
+  "id": "cap:Vietnam",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Thailande",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Indonesie",
+  "type": "capitale",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "cap:Coree du Sud",
+  "type": "capitale",
+  "score": 1,
+  "known": false
+ },
+ {
+  "id": "cap:Cuba",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "cap:Qatar",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Nepal",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "cap:Islande",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "cap:Irlande",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Croatie",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Bulgarie",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Venezuela",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Uruguay",
+  "type": "capitale",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "cap:Equateur",
+  "type": "capitale",
+  "score": 0,
+  "known": false
+ },
+ {
+  "id": "elt:hydrogene",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:carbone",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:azote",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:oxygene",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:sodium",
+  "type": "element",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "elt:magnesium",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:aluminium",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:silicium",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:phosphore",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:soufre",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:chlore",
+  "type": "element",
+  "score": 3,
+  "known": null
+ },
+ {
+  "id": "elt:potassium",
+  "type": "element",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "elt:calcium",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:fer",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:cuivre",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:zinc",
+  "type": "element",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "elt:argent",
+  "type": "element",
+  "score": 1,
+  "known": false
+ },
+ {
+  "id": "elt:or",
+  "type": "element",
+  "score": 1,
+  "known": false
+ },
+ {
+  "id": "elt:mercure",
+  "type": "element",
+  "score": 3,
+  "known": null
+ },
+ {
+  "id": "elt:plomb",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:uranium",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:titane",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:nickel",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "elt:helium",
+  "type": "element",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:7+3",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:7+5",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:7+6",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:7+8",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:8+3",
+  "type": "arithmetique",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "ari:8+5",
+  "type": "arithmetique",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "ari:8+6",
+  "type": "arithmetique",
+  "score": 4,
+  "known": true
+ },
+ {
+  "id": "ari:8+8",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:12+3",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:12+5",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:12+6",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:12+8",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:13+3",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:13+5",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:13+6",
+  "type": "arithmetique",
+  "score": 1,
+  "known": false
+ },
+ {
+  "id": "ari:13+8",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:15+3",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:15+5",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:15+6",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:15+8",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:17+3",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ },
+ {
+  "id": "ari:17+5",
+  "type": "arithmetique",
+  "score": 5,
+  "known": true
+ }
+]
