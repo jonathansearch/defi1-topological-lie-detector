@@ -123,6 +123,12 @@ on the original hypothesis.
 
 ---
 
+## Handoff
+
+[`docs/00_HANDOFF_FR.md`](docs/00_HANDOFF_FR.md) — a complete French hand-off written for
+another LLM taking over: every number, every refutation, the nine technical bugs, and the
+decisions still open. If you are picking this work up, read that first.
+
 ## Changelog
 
 [`CHANGELOG.md`](CHANGELOG.md) logs the four runs, the three bugs that produced wrong
