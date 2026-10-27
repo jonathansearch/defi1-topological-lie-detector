@@ -19,7 +19,9 @@ Status: `SIMULATION` (runs executed on a real model) · one model · four runs
 | The model rationalises a lie it is forced to read | **9/9** continue the lie, 0/9 self-correct | ✅ holds |
 | Knowing lives at the decision point, not after the token | `+0.0765` before the token · `−0.0139` after | ✅ observed |
 | A verbal instruction to lie is not obeyed at 0.5 B | **15/18** answers say the truth | ✅ measured |
+| A known fact also has a **vertical** signature | `sync V − I = −0.0060 [−0.0090; −0.0032]`, p < 0.001 | ✅ holds |
 | **A conflict against a held belief has a topological signature** | `−0.0162 [−0.0202; −0.0116]` at matched NLL **and** matched length | ❌ **refuted** |
+| **A conflict has an inter-layer synchronisation signature** | `−0.0018 [−0.0114; +0.0072]`, p = 0.70 | ❌ **refuted** |
 | `L₁^max`, 2-simplices, GPT-2, second model size | — | ⬜ not measured |
 
 Every number above is produced by the code in `src/` from the arrays in `results/`.
@@ -52,6 +54,7 @@ Full details, including the three traps that cost real runs, in
 | 2 | **Forced prefix** — make the model *read* a lie (derangement of the true answers, identical multiset) | the lie changes the topology | **Manipulation worked** (9/9 rationalisations). Topology went the **wrong way**: `F−V = −0.0139`, `τ*` **down**. And the per-item NLL is `0.495` vs `9.023` nats — the branches differ by a factor 5 000 in surprise. |
 | 3 | **Surprise-matched**: two knowledge regimes × four NLL levels | conflict beyond surprise | An apparent `+0.0328` at NLL≈9 turned out to be a **length artefact** (answers 1.6× longer in the known regime). |
 | 4 | **Length- and surprise-matched** re-run | the decisive test | `Δ = −0.0162` (1 token) and `−0.0033` (2 tokens). Both negative. **Refuted.** |
+| 5 | **H₂-Sync** — inter-layer synchronisation on the captured states | conflict lives in the vertical axis | `Δ = −0.0018 [−0.0114; +0.0072]`, p = 0.70; 13/24 adjacencies, 2 significant out of 24 = chance. **Refuted.** The measure is not inert: it sees knowledge at p < 0.001. |
 
 Each step is in [`docs/03_protocols.md`](docs/03_protocols.md); each failure is
 documented with the number that killed it.
